@@ -1,3 +1,7 @@
+### AnyKernel3 Ramdisk Mod Script
+## osm0sis @ xda-developers
+
+
 ### AnyKernel3 Setup
 properties() { '
 kernel.string=CustomKernel by Edhic1 @ xda-developers
